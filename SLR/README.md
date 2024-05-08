@@ -1,0 +1,1 @@
+Click here for the Google Doc Link for real time view of the SLR. I will keep it sync with the GitHub version.
