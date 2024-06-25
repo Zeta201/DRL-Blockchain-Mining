@@ -1,0 +1,420 @@
+3985.0 2378.0
+Episode 10000	Average Score: 0.6263 Gain: 0.6263
+4415.0 1128.0
+Episode 20000	Average Score: 0.7114 Gain: 0.7965
+4440.0 1077.0
+Episode 30000	Average Score: 0.7425 Gain: 0.8048
+4252.0 1294.0
+Episode 40000	Average Score: 0.7486 Gain: 0.7667
+4394.0 1152.0
+Episode 50000	Average Score: 0.7573 Gain: 0.7923
+4435.0 1116.0
+Episode 60000	Average Score: 0.7642 Gain: 0.7990
+4502.0 948.0
+Episode 70000	Average Score: 0.7731 Gain: 0.8261
+4442.0 1089.0
+Episode 80000	Average Score: 0.7768 Gain: 0.8031
+4521.0 978.0
+Episode 90000	Average Score: 0.7819 Gain: 0.8221
+4486.0 1024.0
+Episode 100000	Average Score: 0.7851 Gain: 0.8142
+4388.0 1217.0
+Episode 110000	Average Score: 0.7849 Gain: 0.7829
+4489.0 1034.0
+Episode 120000	Average Score: 0.7872 Gain: 0.8128
+4490.0 1022.0
+Episode 130000	Average Score: 0.7893 Gain: 0.8146
+4440.0 1093.0
+Episode 140000	Average Score: 0.7903 Gain: 0.8025
+4487.0 1046.0
+Episode 150000	Average Score: 0.7916 Gain: 0.8110
+4366.0 1252.0
+Episode 160000	Average Score: 0.7907 Gain: 0.7771
+4497.0 1030.0
+Episode 170000	Average Score: 0.7921 Gain: 0.8136
+4509.0 971.0
+Episode 180000	Average Score: 0.7938 Gain: 0.8228
+4457.0 1083.0
+Episode 190000	Average Score: 0.7944 Gain: 0.8045
+4522.0 974.0
+Episode 200000	Average Score: 0.7958 Gain: 0.8228
+4462.0 1100.0
+Episode 210000	Average Score: 0.7961 Gain: 0.8022
+4501.0 962.0
+Episode 220000	Average Score: 0.7973 Gain: 0.8239
+4676.0 685.0
+Episode 230000	Average Score: 0.8006 Gain: 0.8722
+4398.0 1176.0
+Episode 240000	Average Score: 0.8001 Gain: 0.7890
+4490.0 1030.0
+Episode 250000	Average Score: 0.8007 Gain: 0.8134
+4425.0 1151.0
+Episode 260000	Average Score: 0.8004 Gain: 0.7936
+4480.0 1026.0
+Episode 270000	Average Score: 0.8009 Gain: 0.8137
+4539.0 957.0
+Episode 280000	Average Score: 0.8018 Gain: 0.8259
+4524.0 953.0
+Episode 290000	Average Score: 0.8026 Gain: 0.8260
+4423.0 1175.0
+Episode 300000	Average Score: 0.8022 Gain: 0.7901
+4473.0 1074.0
+Episode 310000	Average Score: 0.8023 Gain: 0.8064
+4542.0 948.0
+Episode 320000	Average Score: 0.8031 Gain: 0.8273
+4499.0 988.0
+Episode 330000	Average Score: 0.8036 Gain: 0.8199
+4488.0 1037.0
+Episode 340000	Average Score: 0.8039 Gain: 0.8123
+4518.0 957.0
+Episode 350000	Average Score: 0.8045 Gain: 0.8252
+4463.0 1062.0
+Episode 360000	Average Score: 0.8046 Gain: 0.8078
+4529.0 975.0
+Episode 370000	Average Score: 0.8051 Gain: 0.8229
+4424.0 1111.0
+Episode 380000	Average Score: 0.8049 Gain: 0.7993
+4539.0 937.0
+Episode 390000	Average Score: 0.8055 Gain: 0.8289
+4498.0 1012.0
+Episode 400000	Average Score: 0.8058 Gain: 0.8163
+4513.0 988.0
+Episode 410000	Average Score: 0.8062 Gain: 0.8204
+4542.0 930.0
+Episode 420000	Average Score: 0.8067 Gain: 0.8300
+4491.0 1026.0
+Episode 430000	Average Score: 0.8069 Gain: 0.8140
+4470.0 1042.0
+Episode 440000	Average Score: 0.8070 Gain: 0.8110
+4484.0 1069.0
+Episode 450000	Average Score: 0.8070 Gain: 0.8075
+4519.0 960.0
+Episode 460000	Average Score: 0.8074 Gain: 0.8248
+4352.0 1239.0
+Episode 470000	Average Score: 0.8068 Gain: 0.7784
+4503.0 990.0
+Episode 480000	Average Score: 0.8070 Gain: 0.8198
+4583.0 864.0
+Episode 490000	Average Score: 0.8077 Gain: 0.8414
+4537.0 929.0
+Episode 500000	Average Score: 0.8082 Gain: 0.8300
+4580.0 819.0
+Episode 510000	Average Score: 0.8090 Gain: 0.8483
+4506.0 977.0
+Episode 520000	Average Score: 0.8092 Gain: 0.8218
+4556.0 866.0
+Episode 530000	Average Score: 0.8098 Gain: 0.8403
+4458.0 1079.0
+Episode 540000	Average Score: 0.8097 Gain: 0.8051
+4499.0 968.0
+Episode 550000	Average Score: 0.8100 Gain: 0.8229
+4440.0 1137.0
+Episode 560000	Average Score: 0.8097 Gain: 0.7961
+4512.0 979.0
+Episode 570000	Average Score: 0.8099 Gain: 0.8217
+4478.0 1037.0
+Episode 580000	Average Score: 0.8100 Gain: 0.8120
+4477.0 1049.0
+Episode 590000	Average Score: 0.8100 Gain: 0.8102
+4502.0 1006.0
+Episode 600000	Average Score: 0.8101 Gain: 0.8174
+4444.0 1100.0
+Episode 610000	Average Score: 0.8099 Gain: 0.8016
+4443.0 1135.0
+Episode 620000	Average Score: 0.8097 Gain: 0.7965
+4560.0 870.0
+Episode 630000	Average Score: 0.8102 Gain: 0.8398
+4441.0 1131.0
+Episode 640000	Average Score: 0.8100 Gain: 0.7970
+4564.0 842.0
+Episode 650000	Average Score: 0.8105 Gain: 0.8442
+4547.0 929.0
+Episode 660000	Average Score: 0.8108 Gain: 0.8304
+4529.0 962.0
+Episode 670000	Average Score: 0.8110 Gain: 0.8248
+4380.0 1256.0
+Episode 680000	Average Score: 0.8105 Gain: 0.7771
+4618.0 775.0
+Episode 690000	Average Score: 0.8112 Gain: 0.8563
+4510.0 1002.0
+Episode 700000	Average Score: 0.8113 Gain: 0.8182
+2930.0 4031.0
+Episode 10000	Average Score: 0.8058 Gain: 0.4209
+2965.0 4072.0
+Episode 20000	Average Score: 0.8005 Gain: 0.4213
+3081.0 3842.0
+Episode 30000	Average Score: 0.7956 Gain: 0.4450
+2919.0 4140.0
+Episode 40000	Average Score: 0.7904 Gain: 0.4135
+2943.0 4111.0
+Episode 50000	Average Score: 0.7855 Gain: 0.4172
+2961.0 4061.0
+Episode 60000	Average Score: 0.7807 Gain: 0.4217
+3128.0 3742.0
+Episode 70000	Average Score: 0.7764 Gain: 0.4553
+2902.0 4071.0
+Episode 80000	Average Score: 0.7718 Gain: 0.4162
+2905.0 4210.0
+Episode 90000	Average Score: 0.7672 Gain: 0.4083
+2977.0 4045.0
+Episode 100000	Average Score: 0.7629 Gain: 0.4240
+2962.0 4078.0
+Episode 110000	Average Score: 0.7587 Gain: 0.4207
+2897.0 4212.0
+Episode 120000	Average Score: 0.7544 Gain: 0.4075
+2986.0 4047.0
+Episode 130000	Average Score: 0.7504 Gain: 0.4246
+2941.0 4114.0
+Episode 140000	Average Score: 0.7465 Gain: 0.4169
+3046.0 3910.0
+Episode 150000	Average Score: 0.7428 Gain: 0.4379
+3033.0 3929.0
+Episode 160000	Average Score: 0.7393 Gain: 0.4357
+3064.0 3881.0
+Episode 170000	Average Score: 0.7358 Gain: 0.4412
+3122.0 3753.0
+Episode 180000	Average Score: 0.7326 Gain: 0.4541
+2961.0 4076.0
+Episode 190000	Average Score: 0.7291 Gain: 0.4208
+2980.0 4036.0
+Episode 200000	Average Score: 0.7258 Gain: 0.4247
+3105.0 3798.0
+Episode 210000	Average Score: 0.7227 Gain: 0.4498
+3052.0 3896.0
+Episode 220000	Average Score: 0.7196 Gain: 0.4393
+3028.0 3931.0
+Episode 230000	Average Score: 0.7166 Gain: 0.4351
+2996.0 3996.0
+Episode 240000	Average Score: 0.7135 Gain: 0.4285
+2985.0 4116.0
+Episode 250000	Average Score: 0.7104 Gain: 0.4204
+3029.0 3940.0
+Episode 260000	Average Score: 0.7076 Gain: 0.4346
+3008.0 3984.0
+Episode 270000	Average Score: 0.7047 Gain: 0.4302
+2975.0 4055.0
+Episode 280000	Average Score: 0.7018 Gain: 0.4232
+2959.0 4085.0
+Episode 290000	Average Score: 0.6990 Gain: 0.4201
+3007.0 3960.0
+Episode 300000	Average Score: 0.6963 Gain: 0.4316
+3036.0 3914.0
+Episode 310000	Average Score: 0.6937 Gain: 0.4368
+2943.0 4110.0
+Episode 320000	Average Score: 0.6910 Gain: 0.4173
+2934.0 4095.0
+Episode 330000	Average Score: 0.6884 Gain: 0.4174
+3001.0 3991.0
+Episode 340000	Average Score: 0.6859 Gain: 0.4292
+3001.0 3989.0
+Episode 350000	Average Score: 0.6834 Gain: 0.4293
+2927.0 4151.0
+Episode 360000	Average Score: 0.6809 Gain: 0.4135
+3074.0 3978.0
+Episode 370000	Average Score: 0.6786 Gain: 0.4359
+2976.0 4045.0
+Episode 380000	Average Score: 0.6762 Gain: 0.4239
+2925.0 4114.0
+Episode 390000	Average Score: 0.6739 Gain: 0.4155
+3022.0 4027.0
+Episode 400000	Average Score: 0.6716 Gain: 0.4287
+3018.0 3982.0
+Episode 410000	Average Score: 0.6695 Gain: 0.4311
+3053.0 3901.0
+Episode 420000	Average Score: 0.6674 Gain: 0.4390
+2997.0 4004.0
+Episode 430000	Average Score: 0.6653 Gain: 0.4281
+2972.0 4115.0
+Episode 440000	Average Score: 0.6631 Gain: 0.4194
+2939.0 4061.0
+Episode 450000	Average Score: 0.6610 Gain: 0.4199
+3078.0 3941.0
+Episode 460000	Average Score: 0.6591 Gain: 0.4385
+2990.0 4026.0
+Episode 470000	Average Score: 0.6571 Gain: 0.4262
+3003.0 4053.0
+Episode 480000	Average Score: 0.6551 Gain: 0.4256
+3021.0 3970.0
+Episode 490000	Average Score: 0.6533 Gain: 0.4321
+2927.0 4132.0
+Episode 500000	Average Score: 0.6513 Gain: 0.4146
+3003.0 4012.0
+Episode 510000	Average Score: 0.6494 Gain: 0.4281
+2958.0 4171.0
+Episode 520000	Average Score: 0.6475 Gain: 0.4149
+2981.0 4105.0
+Episode 530000	Average Score: 0.6457 Gain: 0.4207
+2977.0 4049.0
+Episode 540000	Average Score: 0.6439 Gain: 0.4237
+2934.0 4131.0
+Episode 550000	Average Score: 0.6420 Gain: 0.4153
+2931.0 4132.0
+Episode 560000	Average Score: 0.6402 Gain: 0.4150
+3006.0 4046.0
+Episode 570000	Average Score: 0.6386 Gain: 0.4263
+3009.0 4007.0
+Episode 580000	Average Score: 0.6369 Gain: 0.4289
+2987.0 4015.0
+Episode 590000	Average Score: 0.6353 Gain: 0.4266
+2977.0 4042.0
+Episode 600000	Average Score: 0.6337 Gain: 0.4241
+3012.0 3998.0
+Episode 610000	Average Score: 0.6321 Gain: 0.4297
+2985.0 4018.0
+Episode 620000	Average Score: 0.6306 Gain: 0.4262
+2975.0 4041.0
+Episode 630000	Average Score: 0.6290 Gain: 0.4240
+2867.0 4337.0
+Episode 640000	Average Score: 0.6273 Gain: 0.3980
+3034.0 3913.0
+Episode 650000	Average Score: 0.6259 Gain: 0.4367
+2931.0 4225.0
+Episode 660000	Average Score: 0.6243 Gain: 0.4096
+3054.0 3999.0
+Episode 670000	Average Score: 0.6229 Gain: 0.4330
+2899.0 4238.0
+Episode 680000	Average Score: 0.6213 Gain: 0.4062
+2968.0 4102.0
+Episode 690000	Average Score: 0.6199 Gain: 0.4198
+3013.0 3980.0
+Episode 700000	Average Score: 0.6185 Gain: 0.4309
+2104.0 5789.0
+Episode 10000	Average Score: 0.6160 Gain: 0.2666
+1959.0 6085.0
+Episode 20000	Average Score: 0.6134 Gain: 0.2435
+1935.0 6130.0
+Episode 30000	Average Score: 0.6108 Gain: 0.2399
+1931.0 6138.0
+Episode 40000	Average Score: 0.6082 Gain: 0.2393
+1955.0 6090.0
+Episode 50000	Average Score: 0.6057 Gain: 0.2430
+2073.0 5923.0
+Episode 60000	Average Score: 0.6033 Gain: 0.2593
+2016.0 6130.0
+Episode 70000	Average Score: 0.6009 Gain: 0.2475
+2001.0 6037.0
+Episode 80000	Average Score: 0.5985 Gain: 0.2489
+2029.0 5989.0
+Episode 90000	Average Score: 0.5962 Gain: 0.2531
+2027.0 5947.0
+Episode 100000	Average Score: 0.5939 Gain: 0.2542
+2037.0 5951.0
+Episode 110000	Average Score: 0.5917 Gain: 0.2550
+1984.0 6032.0
+Episode 120000	Average Score: 0.5894 Gain: 0.2475
+1993.0 6090.0
+Episode 130000	Average Score: 0.5872 Gain: 0.2466
+2003.0 6020.0
+Episode 140000	Average Score: 0.5850 Gain: 0.2497
+1970.0 6069.0
+Episode 150000	Average Score: 0.5828 Gain: 0.2451
+2072.0 5858.0
+Episode 160000	Average Score: 0.5807 Gain: 0.2613
+2014.0 6073.0
+Episode 170000	Average Score: 0.5786 Gain: 0.2490
+1970.0 6060.0
+Episode 180000	Average Score: 0.5765 Gain: 0.2453
+1987.0 6079.0
+Episode 190000	Average Score: 0.5744 Gain: 0.2463
+1965.0 6118.0
+Episode 200000	Average Score: 0.5723 Gain: 0.2431
+1983.0 6158.0
+Episode 210000	Average Score: 0.5703 Gain: 0.2436
+2049.0 5944.0
+Episode 220000	Average Score: 0.5684 Gain: 0.2563
+1997.0 6101.0
+Episode 230000	Average Score: 0.5664 Gain: 0.2466
+1986.0 6029.0
+Episode 240000	Average Score: 0.5644 Gain: 0.2478
+2032.0 6014.0
+Episode 250000	Average Score: 0.5626 Gain: 0.2525
+2043.0 5976.0
+Episode 260000	Average Score: 0.5607 Gain: 0.2548
+1988.0 6021.0
+Episode 270000	Average Score: 0.5588 Gain: 0.2482
+2034.0 5990.0
+Episode 280000	Average Score: 0.5570 Gain: 0.2535
+1997.0 6040.0
+Episode 290000	Average Score: 0.5552 Gain: 0.2485
+1990.0 6017.0
+Episode 300000	Average Score: 0.5534 Gain: 0.2485
+2004.0 6017.0
+Episode 310000	Average Score: 0.5516 Gain: 0.2498
+1982.0 6193.0
+Episode 320000	Average Score: 0.5498 Gain: 0.2424
+2088.0 5823.0
+Episode 330000	Average Score: 0.5482 Gain: 0.2639
+2036.0 5940.0
+Episode 340000	Average Score: 0.5465 Gain: 0.2553
+2039.0 6014.0
+Episode 350000	Average Score: 0.5448 Gain: 0.2532
+2021.0 5997.0
+Episode 360000	Average Score: 0.5431 Gain: 0.2521
+2046.0 5987.0
+Episode 370000	Average Score: 0.5415 Gain: 0.2547
+2057.0 5911.0
+Episode 380000	Average Score: 0.5399 Gain: 0.2582
+1984.0 6042.0
+Episode 390000	Average Score: 0.5383 Gain: 0.2472
+1933.0 6183.0
+Episode 400000	Average Score: 0.5366 Gain: 0.2382
+1995.0 6050.0
+Episode 410000	Average Score: 0.5350 Gain: 0.2480
+1963.0 6146.0
+Episode 420000	Average Score: 0.5334 Gain: 0.2421
+1901.0 6225.0
+Episode 430000	Average Score: 0.5318 Gain: 0.2339
+2024.0 5999.0
+Episode 440000	Average Score: 0.5303 Gain: 0.2523
+1983.0 6080.0
+Episode 450000	Average Score: 0.5287 Gain: 0.2459
+2029.0 5942.0
+Episode 460000	Average Score: 0.5272 Gain: 0.2545
+1994.0 6078.0
+Episode 470000	Average Score: 0.5257 Gain: 0.2470
+2027.0 5945.0
+Episode 480000	Average Score: 0.5243 Gain: 0.2543
+1948.0 6149.0
+Episode 490000	Average Score: 0.5228 Gain: 0.2406
+1965.0 6121.0
+Episode 500000	Average Score: 0.5213 Gain: 0.2430
+2083.0 5896.0
+Episode 510000	Average Score: 0.5200 Gain: 0.2611
+1977.0 6111.0
+Episode 520000	Average Score: 0.5185 Gain: 0.2444
+2025.0 6002.0
+Episode 530000	Average Score: 0.5171 Gain: 0.2523
+2035.0 6009.0
+Episode 540000	Average Score: 0.5158 Gain: 0.2530
+1993.0 6043.0
+Episode 550000	Average Score: 0.5144 Gain: 0.2480
+2112.0 5788.0
+Episode 560000	Average Score: 0.5132 Gain: 0.2673
+2016.0 6000.0
+Episode 570000	Average Score: 0.5118 Gain: 0.2515
+1928.0 6052.0
+Episode 580000	Average Score: 0.5105 Gain: 0.2416
+1940.0 6135.0
+Episode 590000	Average Score: 0.5091 Gain: 0.2402
+1958.0 6090.0
+Episode 600000	Average Score: 0.5078 Gain: 0.2433
+1719.0 6307.0
+Episode 610000	Average Score: 0.5063 Gain: 0.2142
+1820.0 6197.0
+Episode 620000	Average Score: 0.5049 Gain: 0.2270
+1871.0 6281.0
+Episode 630000	Average Score: 0.5036 Gain: 0.2295
+1967.0 6127.0
+Episode 640000	Average Score: 0.5023 Gain: 0.2430
+2004.0 6032.0
+Episode 650000	Average Score: 0.5011 Gain: 0.2494
+2004.0 6083.0
+Episode 660000	Average Score: 0.4998 Gain: 0.2478
+1957.0 6107.0
+Episode 670000	Average Score: 0.4986 Gain: 0.2427
+1979.0 6085.0
+Episode 680000	Average Score: 0.4974 Gain: 0.2454
+2037.0 5981.0
+Episode 690000	Average Score: 0.4962 Gain: 0.2541
+2056.0 5937.0
+Episode 700000	Average Score: 0.4951 Gain: 0.2572
